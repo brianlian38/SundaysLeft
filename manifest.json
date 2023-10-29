@@ -1,6 +1,6 @@
 {
     "name": "Sundays Left Extension",
-    "description": "",
+    "description": "A new-tab visualization of how many Sundays are remaining in your life",
     "version": "1.0",
     "manifest_version": 3,
     "chrome_url_overrides": {
