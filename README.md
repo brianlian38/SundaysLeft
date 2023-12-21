@@ -5,10 +5,10 @@
 
 Redux version of [this](https://chrome.google.com/webstore/detail/the-last-sunday-reminder/aiojhapcgfgmiacbbjfgedhlcchmpelh?hl=en)
 
-+ added functionality
++ added functionality & dark mode
 + tidied tab interactions
 
-Setup:
+Local Setup (not from webstore):
 - download locally
 - go to chrome extensions
 - enable dev mode
